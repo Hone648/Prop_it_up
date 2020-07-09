@@ -10,25 +10,25 @@ function App() {
           <PersonCard 
           firstname="Hunter"
           lastname="Kam"
-          age="24"
+          age={24}
           hair="Black"
           />
           <PersonCard 
           firstname="Bob"
           lastname="Dole"
-          age="89"
+          age={89}
           hair="Brown"
           />
           <PersonCard 
           firstname="Bart"
           lastname="Simpson"
-          age="31"
+          age={31}
           hair="Yellow"
           />
           <PersonCard 
           firstname="Peter"
           lastname="Piper"
-          age="24"
+          age={24}
           hair="Blonde"
           />
         </div>
